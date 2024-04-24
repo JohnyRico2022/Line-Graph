@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LineGraph</string>
+    <string name="back">Назад</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="time">Время</string>
+    <string name="type">Тип</string>
+    <string name="value">Значение</string>
+    <string name="graph">График</string>
+    <string name="list">Список данных</string>
+    <string name="memory">Внутренняя память</string>
+    <string name="xml">XML</string>
+    <string name="json">JSon</string>
+    <string name="source_data">Выбор источника данных</string>
+</resources>
