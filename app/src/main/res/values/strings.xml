@@ -8,7 +8,7 @@
     <string name="graph">График</string>
     <string name="list">Список данных</string>
     <string name="memory">Внутренняя память</string>
-    <string name="xml">XML</string>
-    <string name="json">JSon</string>
+    <string name="file">Путь к файлу</string>
+    <string name="internet">Интернет ресурс</string>
     <string name="source_data">Выбор источника данных</string>
 </resources>

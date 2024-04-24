@@ -34,7 +34,7 @@
             android:id="@+id/button_type0"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/json"
+            android:text="@string/internet"
             android:textColor="@color/black"
             android:textSize="20sp" />
 
@@ -42,7 +42,7 @@
             android:id="@+id/button_type1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/xml"
+            android:text="@string/file"
             android:textColor="@color/black"
             android:textSize="20sp" />
 
